@@ -1,0 +1,14 @@
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.interes.resources
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.descuento.resources
+C:\Users\IT\Documents\Lenguaje3\PrimerExamen\examen\Examen\Examen\obj\Debug\Examen.nombre.resources
